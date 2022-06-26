@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "lidardepth",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/gabriel-lfs/LidarDepth",
+      "state" : {
+        "branch" : "master",
+        "revision" : "d0d0c58b5d4819ccf25e0a126ad0faf4f92f3a14"
+      }
+    }
+  ],
+  "version" : 2
+}
